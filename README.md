@@ -1,8 +1,8 @@
 <p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong>
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software</strong><br><br>
-    <strong>Ciclo: 7mo</strong><br>
+    <strong>Ingeniería de Software</strong><br>
+    <br><strong>Ciclo: 7mo</strong><br>
     <br><strong>1ASI0572 - Desarrollo de Soluciones IOT - 3428</strong><br>
     <br><strong>Docente: Marco Antonio Leon Baca</strong><br>
     <br><strong>"Informe de Trabajo Final"
