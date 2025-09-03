@@ -11,7 +11,7 @@
 
 <p align="center">
     <strong>Startup: Lorem-Ipsum-UPC </strong><br>
-    <br><strong>Producto: none </strong><br>
+    <br><strong>Producto: ParkeoYa </strong><br>
 </p>
 
 <div>
@@ -56,7 +56,8 @@
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
-| 1.0         | 31/08/2025| Calisaya | Creación del documento de trabajo en formato Markdown. |
+| 1.0         | 31/08/2025| Juan Calisaya | Creación del documento de trabajo en formato Markdown. |
+| 1.1         | 02/09/2025| Bárbara Espinoza | Realización del Capítulo 1 |
 
 # Project Report Collaboration Insights 
 
