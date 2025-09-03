@@ -1,9 +1,160 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
+**Parkimeter**
+
+Parkimeter es una solución digital enfocada en la gestión y reserva de espacios de estacionamiento. Su plataforma facilita a los usuarios la búsqueda, comparación y reserva de plazas en distintas ubicaciones. También ofrece funcionalidades como visualización de tarifas, disponibilidad en tiempo real y otros servicios útiles que simplifican el proceso de estacionamiento para los conductores.
+
+**ElParking**
+
+ElParking brinda a los usuarios la posibilidad de localizar, reservar y pagar por estacionamientos desde una misma plataforma. Su sistema incorpora datos actualizados sobre espacios disponibles, además de permitir el pago de parquímetros, seguimiento de sanciones de tránsito y otros servicios complementarios que optimizan la experiencia del conductor.
+
+**Aparcados**
+
+Aparcados es una aplicación enfocada en simplificar la búsqueda de estacionamientos urbanos según las necesidades del usuario. Aunque cuenta con versión web, su versión móvil es la más utilizada debido a su interfaz amigable y diseño visual atractivo, lo que la convierte en una herramienta práctica para conductores en movimiento.
+
 ### 2.1.1. Análisis competitivo
 
+## Competitive Analysis Landscape
+
+**¿Por qué llevar a cabo este análisis?**  
+Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en términos de servicios, ventajas competitivas y estrategias de mercado. Este análisis permitirá detectar oportunidades, diferenciar la propuesta de valor y tomar decisiones estratégicas de producto, marketing y crecimiento.  
+
+## Competidores  
+
+| Competidor   | Imágen | Descripción  | Enlace   |
+|--------------|--------|--------------|----------|
+| **ParkeoYa** | ![ParkeoYa](Assets/ParkingNowlogo.png) | Plataforma digital que conecta conductores con estacionamientos urbanos en tiempo real. Permite reservar, pagar y administrar espacios desde una app móvil y un portal web. Está orientada a reducir tiempos de búsqueda y mejorar la rentabilidad de los propietarios mediante IoT y automatización. | N/A |
+| **iPark**    | <img src="https://i0.wp.com/ipark.pe/wp-content/uploads/2024/01/Posts-IG-iPark-1-1.png?fit=1080%2C1080&ssl=1?raw=true" alt="Logo iPark" width="350" /> | Sistema digital peruano para gestión de estacionamientos. Incluye pago con QR, cámaras ANPR y un panel administrativo para maximizar la eficiencia y los ingresos. | [iPark](https://ipark.pe/propuesta/) |
+| **Parkimeter** | <img src="https://play-lh.googleusercontent.com/WL9JHoSKh73dQdMiWaGHQOZ85lnucjMYVf1Q-56BH8ZwH3al38dYtO_a5Hre7iL5nbD_=w480-h960-rw" alt="Logo Parkimeter" width="350" /> | App web y móvil con presencia internacional. Ofrece reserva de plazas de aparcamiento en diversas ciudades de Europa y Latinoamérica, destacando por sus descuentos y promociones. | [Parkimeter](https://parkimeter.com) |
+| **ElParking** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/4d/46/364d46f8-26c7-4424-5db7-0bef8aacfd3c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.jpeg/434x0w.webp" width="350" /> | Aplicación española que permite no solo reservar estacionamientos, sino también pagar multas, parquímetros y otros servicios urbanos, ampliando su ecosistema de movilidad. | [ElParking](https://elparking.com) |
+| **Aparcados** | <img src="https://play-lh.googleusercontent.com/Y2FttakCUHoIQiHRq2POcB7lNV8RAKlQgdpdVSqyNrDkdxXlh_xyVhOPOT_dSSKicwM=w480-h960-rw" alt="Logo Aparcados" width="350" /> | App enfocada en la reserva de estacionamientos en España con expansión hacia Europa y Latinoamérica. Ofrece geolocalización y notificaciones en tiempo real. | [Aparcados](https://aparcados.com) |
+
+## Perfil – Overview
+
+| Empresa      | Overview |
+|--------------|----------|
+| **ParkeoYa** | Plataforma que integra sensores IoT, app móvil y portal web para reservar y pagar estacionamientos en tiempo real, reduciendo tiempos de búsqueda y aumentando la rentabilidad de propietarios. |
+| **iPark**        | Sistema peruano de gestión digital de estacionamientos con app, QR y cámaras de reconocimiento de placas. |
+| **Parkimeter**   | Aplicación internacional para reserva de estacionamientos con descuentos en múltiples ciudades de Europa y América Latina. |
+| **ElParking**    | Plataforma española que amplía su servicio más allá del estacionamiento, incluyendo pago de parquímetros y gestión de multas. |
+| **Aparcados**    | App española en expansión que ofrece reservas con geolocalización y notificaciones en tiempo real. |
+
+## Perfil de Marketing
+
+**Ventaja competitiva**
+
+| Empresa      | Ventaja competitiva |
+|--------------|----------------------|
+| **ParkeoYa** | Acceso en tiempo real a disponibilidad, tarifas dinámicas, reservas digitales y panel analítico para propietarios. |
+| **iPark**        | Automatización de pagos y control mediante QR y cámaras ANPR, maximizando eficiencia operativa. |
+| **Parkimeter**   | Atractivos descuentos (hasta 70%) y sin gastos de gestión. |
+| **ElParking**    | Ecosistema completo que incluye multas, parquímetros y estacionamientos. |
+| **Aparcados**    | Geolocalización avanzada y notificaciones instantáneas. |
+
+**Mercado objetivo**    
+
+| Empresa      | Mercado objetivo |
+|--------------|------------------|
+| **ParkeoYa** | Conductores urbanos en ciudades congestionadas y propietarios de estacionamientos que buscan digitalizar y rentabilizar su gestión. |
+| **iPark**        | Empresas y administradores de estacionamientos públicos y privados. |
+| **Parkimeter**   | Conductores internacionales que buscan estacionar en ciudades turísticas y urbanas. |
+| **ElParking**    | Conductores urbanos en España que buscan una solución integral de movilidad. |
+| **Aparcados**    | Conductores en España y América Latina que requieren reservas en tiempo real. |
+
+**Estrategias de marketing**  
+
+| Empresa      | Estrategias de marketing |
+|--------------|---------------------------|
+| **ParkeoYa** | Campañas digitales segmentadas, alianzas con negocios e integración con apps de movilidad. |
+| **iPark**        | Modelo SaaS con soporte incluido y enfoque en ROI para estacionamientos. |
+| **Parkimeter**   | Publicidad en línea y alianzas en destinos turísticos. |
+| **ElParking**    | Marketing digital apoyado por influencers y campañas urbanas. |
+| **Aparcados**    | Publicidad digital y campañas en redes sociales. |
+
+## Perfil de Producto  
+
+**Productos & Servicio**   
+
+| Empresa      | Productos & Servicios |
+|--------------|------------------------|
+| **ParkeoYa** | App móvil, panel web, sensores IoT, reservas digitales y pagos integrados. |
+| **iPark**        | App móvil, pagos QR, cámaras ANPR, kioscos y dashboard. |
+| **Parkimeter**   | Reserva de estacionamientos en ciudades internacionales, con sistema de descuentos. |
+| **ElParking**    | Reservas, pago de parquímetros, gestión de multas y estacionamientos. |
+| **Aparcados**    | Reservas urbanas con geolocalización y notificaciones en tiempo real. |
+
+**Precios & Costos**  
+
+| Empresa      | Precios & Costos |
+|--------------|------------------|
+| **ParkeoYa** | Cobro de comisión por cada pago de reserva; plan gratuito para conductores. |
+| **iPark**        | Planes entre $150 y $650 mensuales según transacciones. |
+| **Parkimeter**   | Uso gratuito de la app, pago de tarifas y suscripciones VIP. |
+| **ElParking**    | Uso gratuito, pago de estacionamientos, multas y servicios adicionales. |
+| **Aparcados**    | Uso gratuito de la app, pago de estacionamientos en destino. |
+
+**Canales de distribución**  
+
+| Empresa      | Canales de distribución |
+|--------------|--------------------------|
+| **ParkeoYa** | App móvil, portal web, redes sociales y soporte digital. |
+| **iPark**        | App móvil Android + panel web. |
+| **Parkimeter**   | Web y app móvil. |
+| **ElParking**    | Web y app móvil. |
+| **Aparcados**    | Web y app móvil. |
+
+## Análisis SWOT  
+
+**Fortalezas**  
+
+| Empresa      | Fortalezas |
+|--------------|------------|
+| **ParkeoYa** | Solución integral con doble enfoque (usuario + propietario), escalable y con IoT en tiempo real. |
+| **iPark**        | Modelo SaaS consolidado en Perú, con app moderna y soporte. |
+| **Parkimeter**   | Presencia internacional y atractivos descuentos. |
+| **ElParking**    | Servicios de movilidad más allá del estacionamiento. |
+| **Aparcados**    | Notificaciones y reservas en tiempo real. |
+
+**Debilidades**  
+
+| Empresa      | Debilidades |
+|--------------|-------------|
+| **ParkeoYa** | Requiere adopción tecnológica de propietarios y hardware inicial. |
+| **iPark**        | Enfoque limitado a gestión de estacionamientos. |
+| **Parkimeter**   | Alta competencia internacional. |
+| **ElParking**    | Mercado inicial limitado a España. |
+| **Aparcados**    | Competencia creciente en apps similares. |
+
+**Oportunidades**  
+
+| Empresa      | Oportunidades |
+|--------------|---------------|
+| **ParkeoYa**     | Creciente demanda de soluciones urbanas sostenibles y movilidad inteligente. |
+| **iPark**        | Expansión a malls y edificios corporativos. |
+| **Parkimeter**   | Creciente congestión en ciudades globales. |
+| **ElParking**    | Ampliar su ecosistema en otros países. |
+| **Aparcados**    | Expansión en América Latina. |
+
+**Amenazas**
+
+| Empresa        | Amenazas |
+|----------------|----------|
+| **ParkeoYa**   | Resistencia al cambio en operadores tradicionales y competidores ya posicionados. |
+| **iPark**      | Competencia con soluciones más económicas. |
+| **Parkimeter** | Aparición de nuevas startups internacionales. |
+| **ElParking**  | Regulaciones de movilidad urbana en España. |
+| **Aparcados**  | Nuevas apps emergentes en Europa y LATAM. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+A continuación, se presenta la **Matriz FODA y C.A.M.E**, que nos permitirá definir estrategias claras para fortalecer nuestra propuesta y posicionarnos de manera competitiva frente a los competidores ya establecidos en el mercado. Este análisis busca transformar debilidades en oportunidades, potenciar fortalezas, y anticiparnos a posibles amenazas mediante acciones estratégicas.  
+
+| **MATRIZ FODA y C.A.M.E** | **Oportunidades: Crecimiento sostenido de la demanda de soluciones de estacionamiento inteligente debido al incremento vehicular anual** | **Amenazas: Posibles cambios en las políticas de movilidad urbana y la aparición de nuevas regulaciones en transporte y estacionamiento** |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Fortalezas: Innovación tecnológica, acceso en tiempo real, propuesta integral para conductores y propietarios, y soporte continuo a usuarios** | Aprovechar el interés creciente del mercado para posicionarnos como la opción más confiable, destacando nuestras ventajas tecnológicas como la integración IoT y los pagos automatizados.| Anticipar escenarios regulatorios con un equipo de monitoreo legal y técnico, ajustando funcionalidades de la plataforma a la normativa vigente y ofreciendo reportes a los propietarios para asegurar cumplimiento regulatorio. |
+| **Debilidades: Mercado competitivo, necesidad de inversión inicial y baja visibilidad de marca frente a competidores consolidados** | Impulsar campañas segmentadas en redes sociales y colaboraciones con empresas privadas para generar confianza. | Diseñar mensajes que posicionen la plataforma como un aliado estratégico de la gestión urbana, resaltando que la solución contribuye a reducir la congestión vehicular, en lugar de representar un obstáculo para las políticas públicas. |
 
 ## 2.2. Entrevistas
 Esta sección se centra en la recopilación de información mediante entrevistas a representantes de los segmentos objetivo, con el fin de entender sus necesidades y expectativas en relación al servicio.
@@ -240,4 +391,5 @@ Se presenta una lista que contiene los términos del dominio del negocio y su de
 - **Interfaz de Usuario (UI):** Parte visual e interactiva de la aplicación donde los usuarios gestionan reservas, pagos y notificaciones.
 
 - **Backend:** Infraestructura que procesa y administra los datos de la app, incluyendo disponibilidad de espacios y perfiles de usuarios.
+
 
