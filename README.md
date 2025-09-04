@@ -350,6 +350,25 @@ El mapa de empatía para **Dueños de Estacionamientos** identifica sus necesida
 
 ### 2.3.5. As-is Scenario Mapping
 
+El As-Is nos proporciona un análisis visual de los escenarios actuales para identificar oportunidades de mejora en la experiencia del usuario.
+
+**Segmento Conductores**
+
+El "As-is Scenario Mapping" para **Conductores** resalta los desafíos y mejoras necesarias en la experiencia de estacionamiento, permitiendo optimizar las soluciones de **ParkeoYa**.
+
+<p align="center"><em>As-is Scenario Mapping: Conductor</em></p>
+
+![As is Scenario](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c966a5e7b268d301e4796e176d917ced60f97716/assets/chapter-2/As-Is%20Scenario%20Mapping%20Conductor.png) 
+
+**Segmento Dueños de Playas de estacionamientos**
+
+El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** identifica sus desafíos y necesidades, desde la preparación del espacio hasta la gestión post-servicio, ayudando a mejorar la eficiencia y satisfacción en la gestión de sus estacionamientos con ParkeoYa.
+
+<p align="center"><em>As-is Scenario Mapping: Dueños de Playas de Estacionamientos</em></p>
+
+![As is Scenario](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c966a5e7b268d301e4796e176d917ced60f97716/assets/chapter-2/As-Is%20Scenario%20Mapping%20Due%C3%B1o%20de%20Playa%20de%20Estacionamiento.png)
+
+
 ## 2.4. Ubiquitous Language
 
 Se presenta una lista que contiene los términos del dominio del negocio y su definición.
@@ -391,5 +410,6 @@ Se presenta una lista que contiene los términos del dominio del negocio y su de
 - **Interfaz de Usuario (UI):** Parte visual e interactiva de la aplicación donde los usuarios gestionan reservas, pagos y notificaciones.
 
 - **Backend:** Infraestructura que procesa y administra los datos de la app, incluyendo disponibilidad de espacios y perfiles de usuarios.
+
 
 
