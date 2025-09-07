@@ -177,9 +177,9 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 - ¿Con qué frecuencia necesitas estacionamiento en la ciudad?  
 - ¿Cuánto tiempo dedicas normalmente a buscar estacionamiento?  
 - ¿Utilizas actualmente alguna aplicación o servicio para encontrar estacionamiento?  
-- ¿Qué tan importante es para ti conocer la disponibilidad de estacionamiento en tiempo real?  
-- ¿Estarías dispuesto/a a pagar una tarifa adicional por garantizar un espacio de estacionamiento reservado?  
-- ¿Qué consideras más importante al elegir un estacionamiento: costo, proximidad, o seguridad?  
+- ¿Qué tan importante es para ti conocer la disponibilidad de estacionamiento en tiempo real?    
+- ¿Qué consideras más importante al elegir un estacionamiento: costo, proximidad, o seguridad?
+- ¿Qué tan útil le sería que los estacionamientos tuvieran luces que le indique si están libres u ocupados desde lejos?
 - ¿Te gustaría recibir recomendaciones de rutas hacia el estacionamiento más cercano basado en el tráfico en tiempo real?  
 
 **Preguntas complementarias:**
@@ -204,13 +204,14 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 - ¿Utilizas algún sistema digital para administrar los pagos y reservas de los espacios de estacionamiento?  
 - ¿Qué beneficios ves en la posibilidad de automatizar el proceso de reserva y pago de los espacios de estacionamiento?  
 - ¿Qué tan relevante es para ti ofrecer opciones de pago seguras y rápidas a tus clientes?  
-- ¿De qué manera crees que la integración de una app que gestione datos y pagos podría mejorar la eficiencia de tu negocio?  
+- ¿De qué manera crees que la integración de una solucion que gestione datos y pagos y la inclusión de sensores inteligentes podría mejorar la eficiencia de tu negocio?  
 
 **Preguntas complementarias:**
 
 - ¿Cuáles son los principales desafíos que enfrentas al administrar tu estacionamiento?  
 - ¿Qué funcionalidades adicionales te gustaría que una app ofreciera para facilitar la gestión de tu negocio?  
 - ¿Te gustaría recibir reportes o análisis sobre la ocupación y rotación de vehículos en tu estacionamiento?
+- ¿Qué tan innovador ve la propuesta de incluir sensores y luces para detectar disponibilidad y ocupación en los estacionamientos?
   
 ### 2.2.2. Registro de entrevistas
 
@@ -410,6 +411,7 @@ Se presenta una lista que contiene los términos del dominio del negocio y su de
 - **Interfaz de Usuario (UI):** Parte visual e interactiva de la aplicación donde los usuarios gestionan reservas, pagos y notificaciones.
 
 - **Backend:** Infraestructura que procesa y administra los datos de la app, incluyendo disponibilidad de espacios y perfiles de usuarios.
+
 
 
 
