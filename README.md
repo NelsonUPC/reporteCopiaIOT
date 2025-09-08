@@ -21,7 +21,7 @@ Con esta solución buscamos optimizar el uso de los estacionamientos, mejorar la
 | **David Polanco, Alessandro Alonso - u202122232** | ![Alessandro](/assets/chapter-1/alessandro.png) |
 | **Espinoza Delgado, Bárbara Antonella - u201911727** | ![Bárbara](/assets/chapter-1/barbara.png) |
 | **Serrano Ircañaupa, Nelson Elias - u202214733** | ![Nelson](/assets/chapter-1/nelson.png) |
-| **Sotil Vasquez, Tyrone Raí - u202017267** | ![Tyrone](/assets/chapter-1/tyrone.png) |
+| ![Tyrone](/assets/chapter-1/tyrone.png) **Sotil Vasquez, Tyrone Raí - u202017267** | Me llamo Tyrone Sotil, soy un apasionado tanto de la programación como de la creación de contenido. Mis hobbies incluyen la edición de videos, jugar videojuegos y la programación de páginas web. Mis principales fortalezas son la programación frontend, el diseño de imágenes/videos y los procesos de automatización o conexiones con IA |
 
 
 ## 1.2. Solution Profile
