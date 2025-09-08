@@ -217,6 +217,16 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 
 **Segmento objetivo 1: Conductores Urbanos Frecuentes**
 
+| Entrevista | 2 |
+|--------------|---------------------------|
+| Nombres y Apellidos | Joan Talizo Balbin |
+| Edad | 23 años |
+| Lugar de residencia | Surco |
+| Enlace del video | https://www.youtube.com/watch?v=8MtQq3fYY3s |
+| Duración | 6 minutos y 6 segundos |
+| Imagen | ![ParkeoYa](/assets/chapter-2/conductor-balbin.jpg) |
+| Resumen de la entrevista | Balbín utiliza su auto todos los días para ir a la universidad y a su trabajo como desarrollador web en una ONG. Esto lo obliga a buscar estacionamiento constantemente, lo cual puede tomarle entre 10 a 20 minutos, dependiendo del tráfico y la zona. Actualmente no usa ninguna aplicación para encontrar estacionamiento, pero considera que una app con información en tiempo real sería muy útil, ya que le ahorraría tiempo y evitaría dar vueltas innecesarias. También le gustaría que la app recomiende rutas según el tráfico, lo cual considera clave para optimizar sus desplazamientos. Está dispuesto a pagar una tarifa adicional por reservar un espacio, siempre que esto le garantice seguridad y cercanía. Aunque valora la seguridad, prioriza el costo y la proximidad al momento de elegir un estacionamiento. Ha vivido situaciones frustrantes, como perder tiempo en el tráfico, no encontrar espacios libres o que otro conductor le gane el lugar. Por ello, valora la posibilidad de saber en tiempo real si hay espacios disponibles e incluso recibir alertas si ocurre algo sospechoso con su vehículo. |
+
 **Segmento objetivo 2: Dueños de estacionamientos**
 
 | Entrevista | 1 |
@@ -228,6 +238,16 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 | Duración | 9 minutos y 19 segundos |
 | Imagen | <img src="https://kappa.lol/ukSNEG" alt="Rafael Soto Entrevista" width="600" /> |
 | Resumen de la entrevista | Se entrevistó a Rafael Soto, estudiante de 26 años que vive en el distrito de La Victoria y colabora en el negocio familiar de estacionamientos. Señaló que sus principales habilidades están relacionadas con los números, ya que tiene facilidad para realizar operaciones rápidas y manejar cálculos. Comentó que la gestión de los espacios resulta sencilla en días de baja afluencia, pero en jornadas con mucho movimiento se dificulta controlar las horas de entrada y salida, lo que a veces genera pérdidas. Actualmente el registro se hace de forma manual con tickets y luego se pasa a Excel. Considera muy importante contar con información en tiempo real sobre los espacios disponibles, ya que ayudaría a evitar confusiones y mejorar la atención a los clientes. También ve beneficios en la automatización de reservas y pagos, así como en diversificar los medios de pago más allá del efectivo y Yape. Sobre la integración de sensores inteligentes, destacó que sería útil para identificar espacios vacíos sin necesidad de recorrer el local, optimizando el tiempo y reduciendo errores. Entre los principales desafíos mencionó la pérdida de tickets y los errores al calcular las horas de permanencia. Finalmente, señaló que le gustaría que una aplicación ofreciera reportes sobre ocupación, rotación y horarios de mayor demanda, además de incluir indicadores visuales como luces para señalar espacios libres, similar a lo que se ve en centros comerciales. Considera que estas innovaciones mejorarían la eficiencia y competitividad de su negocio. |
+
+| Entrevista | 2 |
+|--------------|---------------------------|
+| Nombres y Apellidos | Carlos Ponce |
+| Edad | 21 años |
+| Lugar de residencia | La Molina |
+| Enlace del video | https://www.youtube.com/watch?v=pI_iSFNsPYE |
+| Duración | 4 minutos y 37 segundos |
+| Imagen | ![ParkeoYa](/assets/chapter-2/dueño-playa-carlos.jpg) |
+| Resumen de la entrevista | Carlos tiene 20 años y vive en La Molina, donde administra un estacionamiento. Se considera una persona organizada, resolutiva y orientada a mantener el orden, aunque reconoce que durante momentos de alta afluencia la gestión puede volverse complicada. Respecto al control de los espacios, menciona que usualmente es sencillo, pero se dificulta cuando hay gran movimiento o los conductores no respetan los espacios asignados. Por esta razón, valora la posibilidad de contar con información en tiempo real sobre la disponibilidad, lo cual evitaría revisiones físicas continuas y mejoraría la eficiencia operativa. Actualmente no utiliza sistemas digitales de reservas, pero acepta pagos mediante Yape y Plin, métodos que considera ágiles y populares entre sus clientes. Carlos considera que la automatización de reservas y pagos sería altamente beneficiosa, ya que permitiría organizar mejor los tiempos de permanencia, agilizar los ingresos y salidas, y llevar un control más preciso de los cobros. Resalta la importancia de ofrecer métodos de pago seguros y rápidos para mejorar la experiencia del cliente. Además, está convencido de que una aplicación que integre la gestión de espacios, reservas y pagos facilitaría el control detallado de la ocupación, ingresos diarios y aumentaría la transparencia en su administración. Entre los principales desafíos que enfrenta señala la organización en horarios de alta demanda y el seguimiento manual de los pagos. Finalmente, le gustaría que una app permita a los clientes registrar su tiempo de permanencia, calcule automáticamente el costo, notifique la disponibilidad en tiempo real y genere reportes de ocupación y rotación para tomar decisiones más estratégicas. |
 
 ### 2.2.3. Análisis de entrevistas
 
