@@ -9,7 +9,7 @@ El "To-Be Scenario Mapping" para **Conductores** muestra los resultados esperado
 <p align="center"><em>Escenario ideal para conductores que buscan estacionar y pagar sin complicaciones.</em></p>
 
 
-![To Be Scenario Conductores](https://github.com/Lorem-Ipsum-UPC/reporte/blob/ca5413f7842dac00849c74b84601bb25e79b74da/assets/chapter-3/To-Be%20Scenario%20Mapping%20Conductor.png)
+![To Be Scenario Conductores](assets/chapter-3/To-Be%20Scenario%20Mapping%20Conductor.png)
 
 **Segmento Dueños de Playas de Estacionamiento**
 
@@ -17,7 +17,7 @@ El "To-Be Scenario Mapping" para **Dueños de Playas de Estacionamiento** muestr
 
 <p align="center"><em>Escenario ideal para Dueños de playas de estacionamiento.</em></p>
 
-![To Be Scenario Dueños de Playas de Estacionamiento](https://github.com/Lorem-Ipsum-UPC/reporte/blob/ca5413f7842dac00849c74b84601bb25e79b74da/assets/chapter-3/To-Be%20Scenario%20Mapping%20Due%C3%B1o%20de%20Playa%20de%20Estacionamiento.png)
+![To Be Scenario Dueños de Playas de Estacionamiento](assets/chapter-3/To-Be%20Scenario%20Mapping%20Dueño%20de%20Playa%20de%20Estacionamiento.png)
 
 ### EPICS
 
