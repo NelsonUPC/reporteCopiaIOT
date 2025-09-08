@@ -215,6 +215,28 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
   
 ### 2.2.2. Registro de entrevistas
 
+**Segmento objetivo 1: Conductores Urbanos Frecuentes**
+
+**Segmento objetivo 2: Dueños de estacionamientos**
+
+| Entrevista 1 |
+|--------------|---------------------------|
+| Nombres y Apellidos | Rafael Soto |
+| Edad | 26 años |
+| Lugar de residencia | La Victoria |
+| Enlace del video | [Rafael_Entrevista]([https://ipark.pe/propuesta/](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017267_upc_edu_pe/EaAVNhk_5lRBjzmuxUTDyNYBiuZnwvw1xfj9TqTjifT7mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E78kAV)) |
+| Duración | 9 minutos y 19 segundos |
+| <img src="https://kappa.lol/ukSNEG" alt="Rafael Soto Entrevista" width="800" /> |
+| Resumen de la entrevista | Se entrevistó a Rafael Soto, estudiante de 26 años que vive en el distrito de La Victoria y colabora en el negocio familiar de estacionamientos. Señaló que sus principales habilidades están relacionadas con los números, ya que tiene facilidad para realizar operaciones rápidas y manejar cálculos.
+
+Comentó que la gestión de los espacios resulta sencilla en días de baja afluencia, pero en jornadas con mucho movimiento se dificulta controlar las horas de entrada y salida, lo que a veces genera pérdidas. Actualmente el registro se hace de forma manual con tickets y luego se pasa a Excel.
+
+Considera muy importante contar con información en tiempo real sobre los espacios disponibles, ya que ayudaría a evitar confusiones y mejorar la atención a los clientes. También ve beneficios en la automatización de reservas y pagos, así como en diversificar los medios de pago más allá del efectivo y Yape.
+
+Sobre la integración de sensores inteligentes, destacó que sería útil para identificar espacios vacíos sin necesidad de recorrer el local, optimizando el tiempo y reduciendo errores. Entre los principales desafíos mencionó la pérdida de tickets y los errores al calcular las horas de permanencia.
+
+Finalmente, señaló que le gustaría que una aplicación ofreciera reportes sobre ocupación, rotación y horarios de mayor demanda, además de incluir indicadores visuales como luces para señalar espacios libres, similar a lo que se ve en centros comerciales. Considera que estas innovaciones mejorarían la eficiencia y competitividad de su negocio. |
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -411,6 +433,7 @@ Se presenta una lista que contiene los términos del dominio del negocio y su de
 - **Interfaz de Usuario (UI):** Parte visual e interactiva de la aplicación donde los usuarios gestionan reservas, pagos y notificaciones.
 
 - **Backend:** Infraestructura que procesa y administra los datos de la app, incluyendo disponibilidad de espacios y perfiles de usuarios.
+
 
 
 
