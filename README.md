@@ -58,6 +58,9 @@
 |-------------|-----------|-----------|---------------------------------|
 | 1.0         | 31/08/2025| Juan Calisaya | Creación del documento de trabajo en formato Markdown. |
 | 1.1         | 02/09/2025| Bárbara Espinoza | Realización del Capítulo 1 |
+| 1.2         | 03/09/2025| Bárbara Espinoza | Realización del Capítulo 2 |
+| 1.3         | 03/09/2025| Bárbara Espinoza | Realización del To-Be Scenario Mapping en el Capítulo 3 |
+
 
 # Project Report Collaboration Insights 
 
@@ -66,9 +69,10 @@ https://github.com/Lorem-Ipsum-UPC/reporte
 
 ---
 
-TB1
+## TB1
 
-Descripción de las actividades realizadas
+**Descripción de las actividades realizadas:**
+- **Espinoza Delgado, Bárbara Antonella**: Colaboré con la realización del capítulo 1 2 y 3 del informe cumpliendo con el formato en Markdown y estando pendiente de las correcciones y partes faltantes.
 
 Evidencia de colaboración
 
@@ -153,10 +157,43 @@ Evidencia de colaboración
 
 # Student Outcome
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|----|----|----|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Calisaya Sánchez Juan Jesús  <br> TB1: <br> David Polanco, Alessandro Alonso <br> TB1: <br> Espinoza Delgado, Bárbara Antonella <br> TB1: <br> Serrano Ircañaupa, Nelson Elias <br> TB1: <br> Sotil Vasquez, Tyrone Raí <br> TB1:  | TB1: |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | Calisaya Sánchez Juan Jesús  <br> TB1: <br> David Polanco, Alessandro Alonso <br> TB1: <br> Espinoza Delgado, Bárbara Antonella <br> TB1: <br> Serrano Ircañaupa, Nelson Elias <br> TB1: <br> Sotil Vasquez, Tyrone Raí <br> TB1:  | TB1: |
+**ABET – EAC - Student Outcome 5**
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+<table>
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+    <td>
+      <b>TB1:</b><br>
+      Calisaya Sánchez Juan Jesús: <br><br>
+      David Polanco, Alessandro Alonso: <br><br>
+      Espinoza Delgado, Bárbara Antonella: En grupo logramos organizarnos de forma adecuada para desarrollar el trabajo, distribuyendo responsabilidades entre los integrantes. Se llevaron a cabo reuniones para coordinar las actividades y se utilizó GitHub como herramienta para dar seguimiento al progreso de cada miembro y Discord para realizar las reuniones semanales. <br><br>
+      Serrano Ircañaupa, Nelson Elias: <br><br>
+      Sotil Vasquez, Tyrone Raí: <br><br>
+    </td>
+    <td><b>TB1:</b> Conseguimos organizarnos de manera eficiente, asignando las tareas de forma equitativa y empleando herramientas como GitHub para dar un seguimiento claro al progreso. Compartimos ideas, resolvimos dudas de forma colectiva y mantuvimos una comunicación continua a través de reuniones de coordinación. Esta experiencia fortaleció nuestras capacidades de trabajo colaborativo y evidenció el valor de la planificación y la cooperación para cumplir objetivos en común.
+</td>
+  </tr>
+  <tr>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td>
+      <b>TB1:</b><br>
+      Calisaya Sánchez Juan Jesús: <br><br>
+      David Polanco, Alessandro Alonso: <br><br>
+      Espinoza Delgado, Bárbara Antonella: Se coordinó de manera conjunta la repartición de tareas a realizar para esta entrega tomando en cuenta las habilidades de cada integrante, asi como a traves de las reuniones nos hemos ayudado unos a otros a solventar dudas o dar recordatorios sobre los plazos de entrega del trabajo. <br><br>
+      Serrano Ircañaupa, Nelson Elias: <br><br>
+      Sotil Vasquez, Tyrone Raí: <br><br>
+    </td>
+    <td><b>TB1:</b> Colaboramos de forma coordinada, repartiendo las tareas de manera justa y definiendo metas semanales en reuniones periódicas. Hicimos uso de GitHub y mantuvimos una comunicación continua para aclarar dudas, realizar ajustes y supervisar los avances de manera conjunta. Promovimos un entorno inclusivo en el que cada integrante aportó sus ideas, alcanzando consensos en las decisiones y garantizando transparencia durante todo el proceso. Gracias a esta organización compartida y al compromiso colectivo, conseguimos finalizar el trabajo dentro del plazo previsto.
+</td>
+  </tr>
+</table>
+
 
 # Objetivos SMART 
 
