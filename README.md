@@ -25,7 +25,7 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 
 | Competidor   | Imágen | Descripción  | Enlace   |
 |--------------|--------|--------------|----------|
-| **ParkeoYa** | ![ParkeoYa](Assets/ParkingNowlogo.png) | Plataforma digital que conecta conductores con estacionamientos urbanos en tiempo real. Permite reservar, pagar y administrar espacios desde una app móvil y un portal web. Está orientada a reducir tiempos de búsqueda y mejorar la rentabilidad de los propietarios mediante IoT y automatización. | N/A |
+| **ParkeoYa** | <img src="https://github.com/Lorem-Ipsum-UPC/reporte/blob/37b2121ec5cdd27b0afc73d064acc28392949571/assets/chapter-2/Logo.jpg" alt="Logo Aparcados" width="350" /> | Plataforma digital que conecta conductores con estacionamientos urbanos en tiempo real. Permite reservar, pagar y administrar espacios desde una app móvil y un portal web. Está orientada a reducir tiempos de búsqueda y mejorar la rentabilidad de los propietarios mediante IoT y automatización. | N/A |
 | **iPark**    | <img src="https://i0.wp.com/ipark.pe/wp-content/uploads/2024/01/Posts-IG-iPark-1-1.png?fit=1080%2C1080&ssl=1?raw=true" alt="Logo iPark" width="350" /> | Sistema digital peruano para gestión de estacionamientos. Incluye pago con QR, cámaras ANPR y un panel administrativo para maximizar la eficiencia y los ingresos. | [iPark](https://ipark.pe/propuesta/) |
 | **Parkimeter** | <img src="https://play-lh.googleusercontent.com/WL9JHoSKh73dQdMiWaGHQOZ85lnucjMYVf1Q-56BH8ZwH3al38dYtO_a5Hre7iL5nbD_=w480-h960-rw" alt="Logo Parkimeter" width="350" /> | App web y móvil con presencia internacional. Ofrece reserva de plazas de aparcamiento en diversas ciudades de Europa y Latinoamérica, destacando por sus descuentos y promociones. | [Parkimeter](https://parkimeter.com) |
 | **ElParking** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/4d/46/364d46f8-26c7-4424-5db7-0bef8aacfd3c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.jpeg/434x0w.webp" width="350" /> | Aplicación española que permite no solo reservar estacionamientos, sino también pagar multas, parquímetros y otros servicios urbanos, ampliando su ecosistema de movilidad. | [ElParking](https://elparking.com) |
@@ -456,6 +456,7 @@ Se presenta una lista que contiene los términos del dominio del negocio y su de
 - **Interfaz de Usuario (UI):** Parte visual e interactiva de la aplicación donde los usuarios gestionan reservas, pagos y notificaciones.
 
 - **Backend:** Infraestructura que procesa y administra los datos de la app, incluyendo disponibilidad de espacios y perfiles de usuarios.
+
 
 
 
