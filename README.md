@@ -227,6 +227,16 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 | Imagen |  <img src="/assets/chapter-2/conductor-balbin.jpg" width="400" /> |
 | Resumen de la entrevista | Balbín utiliza su auto todos los días para ir a la universidad y a su trabajo como desarrollador web en una ONG. Esto lo obliga a buscar estacionamiento constantemente, lo cual puede tomarle entre 10 a 20 minutos, dependiendo del tráfico y la zona. Actualmente no usa ninguna aplicación para encontrar estacionamiento, pero considera que una app con información en tiempo real sería muy útil, ya que le ahorraría tiempo y evitaría dar vueltas innecesarias. También le gustaría que la app recomiende rutas según el tráfico, lo cual considera clave para optimizar sus desplazamientos. Está dispuesto a pagar una tarifa adicional por reservar un espacio, siempre que esto le garantice seguridad y cercanía. Aunque valora la seguridad, prioriza el costo y la proximidad al momento de elegir un estacionamiento. Ha vivido situaciones frustrantes, como perder tiempo en el tráfico, no encontrar espacios libres o que otro conductor le gane el lugar. Por ello, valora la posibilidad de saber en tiempo real si hay espacios disponibles e incluso recibir alertas si ocurre algo sospechoso con su vehículo. |
 
+| Entrevista | 2 |
+|--------------|---------------------------|
+| Nombres y Apellidos | Leandro Medina |
+| Edad | 22 años |
+| Lugar de residencia | Villa Maria |
+| Enlace del video | https://www.youtube.com/watch?v=_RbKISOL-Qo |
+| Duración | 4 minutos y 58 segundos |
+| Imagen |  <img width="818" height="492" alt="image" src="https://github.com/user-attachments/assets/9b5286e3-cd07-4b4f-b6c1-a3bcc26e2f54" /> |
+| Resumen de la entrevista | Leandro compartió su experiencia como conductor frecuente en la ciudad y respondió a varias de las preguntas que le planteamos. Mencionó que necesita estacionar casi todos los días, tanto por razones laborales como personales, y que suele dedicar entre 15 y 20 minutos en promedio para encontrar un espacio disponible. Actualmente no utiliza ninguna aplicación específica para buscar estacionamiento, aunque considera que una herramienta que muestre la disponibilidad en tiempo real sería muy útil, ya que le permitiría ahorrar tiempo y reducir el estrés diario. Al momento de elegir dónde estacionar, Leandro prioriza la proximidad a su destino, aunque también toma en cuenta el costo y, en menor medida, la seguridad. Comentó que le parecería muy práctico que los estacionamientos contaran con luces indicadoras que señalen desde lejos si hay espacios disponibles, y valoró la posibilidad de recibir rutas recomendadas en función del tráfico para llegar más rápido a un lugar libre. |
+
 **Segmento objetivo 2: Dueños de estacionamientos**
 
 | Entrevista | 1 |
@@ -456,6 +466,7 @@ Se presenta una lista que contiene los términos del dominio del negocio y su de
 - **Interfaz de Usuario (UI):** Parte visual e interactiva de la aplicación donde los usuarios gestionan reservas, pagos y notificaciones.
 
 - **Backend:** Infraestructura que procesa y administra los datos de la app, incluyendo disponibilidad de espacios y perfiles de usuarios.
+
 
 
 
