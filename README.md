@@ -80,3 +80,37 @@ El "To-Be Scenario Mapping" para **Dueños de Playas de Estacionamiento** muestr
 
 ### 3.4. Product Backlog
 
+| Epic ID | User Story ID | Título                                                       | Prioridad |
+|---------|---------------|--------------------------------------------------------------|-----------|
+| EP01    | US01          | Landing page con propuesta de valor clara                    | Alta      |
+| EP01    | US02          | Solicitud de demo para propietarios                          | Media     |
+| EP02    | US03          | Registro diferenciado de usuarios                            | Alta      |
+| EP02    | US04          | Verificación de identidad para propietarios                  | Alta      |
+| EP03    | US05          | Perfil de conductor con historial de uso                     | Media     |
+| EP03    | US06          | Dashboard consolidado para propietarios múltiples            | Media     |
+| EP04    | US07          | Configuración de sensores por espacio                        | Alta      |
+| EP04    | US08          | Mapa de disponibilidad en tiempo real                        | Alta      |
+| EP04    | US09          | Detección de ocupación no autorizada                         | Media     |
+| EP05    | US10          | Reserva instantánea con bloqueo de espacio                   | Alta      |
+| EP05    | US11          | Extensión de tiempo antes del vencimiento                    | Media     |
+| EP05    | US12          | Historial con análisis de ahorro de tiempo                   | Baja      |
+| EP06    | US13          | Modelo de comisiones transparente y escalable                | Alta      |
+| EP07    | US14          | Calificación post-uso para mejora continua                   | Media     |
+| EP07    | US15          | Visualización de reputación para toma de decisiones          | Media     |
+| EP08    | US16          | Notificaciones contextuales sin spam                         | Media     |
+| EP08    | US17          | Sistema de alertas escalonadas inteligente                   | Media     |
+| EP09    | US18          | Monitoreo preventivo de sensores                             | Alta      |
+| EP09    | US19          | Sincronización robusta entre edge y cloud                    | Alta      |
+| EP10    | US20          | Pagos automáticos precisos                                   | Alta      |
+| EP10    | US21          | Compensación automática por fallas técnicas                  | Media     |
+| EP11    | US22          | API para desarrolladores externos                            | Media     |
+| EP11    | US23          | Webhooks para sincronización en tiempo real                  | Media     |
+| EP12    | US24          | Detección multi-sensor ultra precisa                         | Alta      |
+| EP12    | US25          | Operación autónoma sin conectividad                          | Alta      |
+| EP13    | US26          | Comunicación MQTT confiable                                  | Alta      |
+| EP13    | US27          | Balanceador automático de carga IoT                          | Media     |
+| EP14    | US28          | Analytics predictivos para optimización                      | Media     |
+| EP15    | US29          | Medición de impacto ambiental                                | Baja      |
+| EP15    | US30          | Programa de movilidad sostenible                             | Baja      |
+
+
