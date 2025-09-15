@@ -26,7 +26,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Competidor   | Imágen | Descripción  | Enlace   |
 |--------------|--------|--------------|----------|
 | **ParkeoYa** | <img src="https://github.com/Lorem-Ipsum-UPC/reporte/blob/37b2121ec5cdd27b0afc73d064acc28392949571/assets/chapter-2/Logo.jpg" alt="Logo Aparcados" width="350" /> | Plataforma digital que conecta conductores con estacionamientos urbanos en tiempo real. Permite reservar, pagar y administrar espacios desde una app móvil y un portal web. Está orientada a reducir tiempos de búsqueda y mejorar la rentabilidad de los propietarios mediante IoT y automatización. | N/A |
-| **iPark**    | <img src="https://i0.wp.com/ipark.pe/wp-content/uploads/2024/01/Posts-IG-iPark-1-1.png?fit=1080%2C1080&ssl=1?raw=true" alt="Logo iPark" width="350" /> | Sistema digital peruano para gestión de estacionamientos. Incluye pago con QR, cámaras ANPR y un panel administrativo para maximizar la eficiencia y los ingresos. | [iPark](https://ipark.pe/propuesta/) |
 | **Parkimeter** | <img src="https://play-lh.googleusercontent.com/WL9JHoSKh73dQdMiWaGHQOZ85lnucjMYVf1Q-56BH8ZwH3al38dYtO_a5Hre7iL5nbD_=w480-h960-rw" alt="Logo Parkimeter" width="350" /> | App web y móvil con presencia internacional. Ofrece reserva de plazas de aparcamiento en diversas ciudades de Europa y Latinoamérica, destacando por sus descuentos y promociones. | [Parkimeter](https://parkimeter.com) |
 | **ElParking** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/4d/46/364d46f8-26c7-4424-5db7-0bef8aacfd3c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.jpeg/434x0w.webp" width="350" /> | Aplicación española que permite no solo reservar estacionamientos, sino también pagar multas, parquímetros y otros servicios urbanos, ampliando su ecosistema de movilidad. | [ElParking](https://elparking.com) |
 | **Aparcados** | <img src="https://play-lh.googleusercontent.com/Y2FttakCUHoIQiHRq2POcB7lNV8RAKlQgdpdVSqyNrDkdxXlh_xyVhOPOT_dSSKicwM=w480-h960-rw" alt="Logo Aparcados" width="350" /> | App enfocada en la reserva de estacionamientos en España con expansión hacia Europa y Latinoamérica. Ofrece geolocalización y notificaciones en tiempo real. | [Aparcados](https://aparcados.com) |
@@ -36,7 +35,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Overview |
 |--------------|----------|
 | **ParkeoYa** | Plataforma que integra sensores IoT, app móvil y portal web para reservar y pagar estacionamientos en tiempo real, reduciendo tiempos de búsqueda y aumentando la rentabilidad de propietarios. |
-| **iPark**        | Sistema peruano de gestión digital de estacionamientos con app, QR y cámaras de reconocimiento de placas. |
 | **Parkimeter**   | Aplicación internacional para reserva de estacionamientos con descuentos en múltiples ciudades de Europa y América Latina. |
 | **ElParking**    | Plataforma española que amplía su servicio más allá del estacionamiento, incluyendo pago de parquímetros y gestión de multas. |
 | **Aparcados**    | App española en expansión que ofrece reservas con geolocalización y notificaciones en tiempo real. |
@@ -48,7 +46,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Ventaja competitiva |
 |--------------|----------------------|
 | **ParkeoYa** | Acceso en tiempo real a disponibilidad, tarifas dinámicas, reservas digitales y panel analítico para propietarios. |
-| **iPark**        | Automatización de pagos y control mediante QR y cámaras ANPR, maximizando eficiencia operativa. |
 | **Parkimeter**   | Atractivos descuentos (hasta 70%) y sin gastos de gestión. |
 | **ElParking**    | Ecosistema completo que incluye multas, parquímetros y estacionamientos. |
 | **Aparcados**    | Geolocalización avanzada y notificaciones instantáneas. |
@@ -58,7 +55,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Mercado objetivo |
 |--------------|------------------|
 | **ParkeoYa** | Conductores urbanos en ciudades congestionadas y propietarios de estacionamientos que buscan digitalizar y rentabilizar su gestión. |
-| **iPark**        | Empresas y administradores de estacionamientos públicos y privados. |
 | **Parkimeter**   | Conductores internacionales que buscan estacionar en ciudades turísticas y urbanas. |
 | **ElParking**    | Conductores urbanos en España que buscan una solución integral de movilidad. |
 | **Aparcados**    | Conductores en España y América Latina que requieren reservas en tiempo real. |
@@ -68,7 +64,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Estrategias de marketing |
 |--------------|---------------------------|
 | **ParkeoYa** | Campañas digitales segmentadas, alianzas con negocios e integración con apps de movilidad. |
-| **iPark**        | Modelo SaaS con soporte incluido y enfoque en ROI para estacionamientos. |
 | **Parkimeter**   | Publicidad en línea y alianzas en destinos turísticos. |
 | **ElParking**    | Marketing digital apoyado por influencers y campañas urbanas. |
 | **Aparcados**    | Publicidad digital y campañas en redes sociales. |
@@ -80,7 +75,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Productos & Servicios |
 |--------------|------------------------|
 | **ParkeoYa** | App móvil, panel web, sensores IoT, reservas digitales y pagos integrados. |
-| **iPark**        | App móvil, pagos QR, cámaras ANPR, kioscos y dashboard. |
 | **Parkimeter**   | Reserva de estacionamientos en ciudades internacionales, con sistema de descuentos. |
 | **ElParking**    | Reservas, pago de parquímetros, gestión de multas y estacionamientos. |
 | **Aparcados**    | Reservas urbanas con geolocalización y notificaciones en tiempo real. |
@@ -90,7 +84,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Precios & Costos |
 |--------------|------------------|
 | **ParkeoYa** | Cobro de comisión por cada pago de reserva; plan gratuito para conductores. |
-| **iPark**        | Planes entre $150 y $650 mensuales según transacciones. |
 | **Parkimeter**   | Uso gratuito de la app, pago de tarifas y suscripciones VIP. |
 | **ElParking**    | Uso gratuito, pago de estacionamientos, multas y servicios adicionales. |
 | **Aparcados**    | Uso gratuito de la app, pago de estacionamientos en destino. |
@@ -100,7 +93,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Canales de distribución |
 |--------------|--------------------------|
 | **ParkeoYa** | App móvil, portal web, redes sociales y soporte digital. |
-| **iPark**        | App móvil Android + panel web. |
 | **Parkimeter**   | Web y app móvil. |
 | **ElParking**    | Web y app móvil. |
 | **Aparcados**    | Web y app móvil. |
@@ -112,7 +104,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Fortalezas |
 |--------------|------------|
 | **ParkeoYa** | Solución integral con doble enfoque (usuario + propietario), escalable y con IoT en tiempo real. |
-| **iPark**        | Modelo SaaS consolidado en Perú, con app moderna y soporte. |
 | **Parkimeter**   | Presencia internacional y atractivos descuentos. |
 | **ElParking**    | Servicios de movilidad más allá del estacionamiento. |
 | **Aparcados**    | Notificaciones y reservas en tiempo real. |
@@ -122,7 +113,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Debilidades |
 |--------------|-------------|
 | **ParkeoYa** | Requiere adopción tecnológica de propietarios y hardware inicial. |
-| **iPark**        | Enfoque limitado a gestión de estacionamientos. |
 | **Parkimeter**   | Alta competencia internacional. |
 | **ElParking**    | Mercado inicial limitado a España. |
 | **Aparcados**    | Competencia creciente en apps similares. |
@@ -132,7 +122,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa      | Oportunidades |
 |--------------|---------------|
 | **ParkeoYa**     | Creciente demanda de soluciones urbanas sostenibles y movilidad inteligente. |
-| **iPark**        | Expansión a malls y edificios corporativos. |
 | **Parkimeter**   | Creciente congestión en ciudades globales. |
 | **ElParking**    | Ampliar su ecosistema en otros países. |
 | **Aparcados**    | Expansión en América Latina. |
@@ -142,7 +131,6 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 | Empresa        | Amenazas |
 |----------------|----------|
 | **ParkeoYa**   | Resistencia al cambio en operadores tradicionales y competidores ya posicionados. |
-| **iPark**      | Competencia con soluciones más económicas. |
 | **Parkimeter** | Aparición de nuevas startups internacionales. |
 | **ElParking**  | Regulaciones de movilidad urbana en España. |
 | **Aparcados**  | Nuevas apps emergentes en Europa y LATAM. |
@@ -215,6 +203,8 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
   
 ### 2.2.2. Registro de entrevistas
 
+Link de entrevistas: [Link de Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/EYQhtWUIDpVJmC_4vrNvyeEBVwPe0lza4GruF-bIEb73Ww?e=OLnD12 )
+
 **Segmento objetivo 1: Conductores Urbanos Frecuentes**
 
 | Entrevista | 1 |
@@ -222,7 +212,7 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 | Nombres y Apellidos | Joan Talizo Balbin |
 | Edad | 23 años |
 | Lugar de residencia | Surco |
-| Enlace del video | https://www.youtube.com/watch?v=8MtQq3fYY3s |
+| Enlace del video | [Entrevista Joan](https://www.youtube.com/watch?v=8MtQq3fYY3s) |
 | Duración | 6 minutos y 6 segundos |
 | Imagen |  <img src="/assets/chapter-2/conductor-balbin.jpg" width="400" /> |
 | Resumen de la entrevista | Balbín utiliza su auto todos los días para ir a la universidad y a su trabajo como desarrollador web en una ONG. Esto lo obliga a buscar estacionamiento constantemente, lo cual puede tomarle entre 10 a 20 minutos, dependiendo del tráfico y la zona. Actualmente no usa ninguna aplicación para encontrar estacionamiento, pero considera que una app con información en tiempo real sería muy útil, ya que le ahorraría tiempo y evitaría dar vueltas innecesarias. También le gustaría que la app recomiende rutas según el tráfico, lo cual considera clave para optimizar sus desplazamientos. Está dispuesto a pagar una tarifa adicional por reservar un espacio, siempre que esto le garantice seguridad y cercanía. Aunque valora la seguridad, prioriza el costo y la proximidad al momento de elegir un estacionamiento. Ha vivido situaciones frustrantes, como perder tiempo en el tráfico, no encontrar espacios libres o que otro conductor le gane el lugar. Por ello, valora la posibilidad de saber en tiempo real si hay espacios disponibles e incluso recibir alertas si ocurre algo sospechoso con su vehículo. |
@@ -232,9 +222,9 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 | Nombres y Apellidos | Leandro Medina |
 | Edad | 22 años |
 | Lugar de residencia | Villa Maria |
-| Enlace del video | https://www.youtube.com/watch?v=_RbKISOL-Qo |
+| Enlace del video | [Entrevista Leandro](https://www.youtube.com/watch?v=_RbKISOL-Qo) |
 | Duración | 4 minutos y 58 segundos |
-| Imagen |  <img width="818" height="492" alt="image" src="https://github.com/user-attachments/assets/9b5286e3-cd07-4b4f-b6c1-a3bcc26e2f54" /> |
+| Imagen |  <img width="400" alt="image" src="https://github.com/user-attachments/assets/9b5286e3-cd07-4b4f-b6c1-a3bcc26e2f54" /> |
 | Resumen de la entrevista | Leandro compartió su experiencia como conductor frecuente en la ciudad y respondió a varias de las preguntas que le planteamos. Mencionó que necesita estacionar casi todos los días, tanto por razones laborales como personales, y que suele dedicar entre 15 y 20 minutos en promedio para encontrar un espacio disponible. Actualmente no utiliza ninguna aplicación específica para buscar estacionamiento, aunque considera que una herramienta que muestre la disponibilidad en tiempo real sería muy útil, ya que le permitiría ahorrar tiempo y reducir el estrés diario. Al momento de elegir dónde estacionar, Leandro prioriza la proximidad a su destino, aunque también toma en cuenta el costo y, en menor medida, la seguridad. Comentó que le parecería muy práctico que los estacionamientos contaran con luces indicadoras que señalen desde lejos si hay espacios disponibles, y valoró la posibilidad de recibir rutas recomendadas en función del tráfico para llegar más rápido a un lugar libre. |
 
 | Entrevista | 3 |
@@ -242,9 +232,9 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 | Nombres y Apellidos | Maria Gracia Rojas |
 | Edad | 20 años |
 | Lugar de residencia | Surco |
-| Enlace del video | https://drive.google.com/file/d/1-lvSQDIcGbk-fEERg-kFN4gXO0x1Y2Th/view?usp=sharing |
+| Enlace del video | [Entrevista Maria](https://drive.google.com/file/d/1-lvSQDIcGbk-fEERg-kFN4gXO0x1Y2Th/view?usp=sharing) |
 | Duración | 3 minutos y 19 segundos |
-| Imagen |  <img width="818" height="492" alt="image" src="/assets/chapter-2/entrevista-maria.png" /> |
+| Imagen |  <img width="400" alt="image" src="/assets/chapter-2/entrevista-maria.png" /> |
 | Resumen de la entrevista | Maria Gracia es una estudiante de 20 años que vive en el distrito de Surco y estudia derecho corporativo en la universidad. Comentó que usualmente le es fácil encontrar estacionamiento dado que en su universidad hay espacios libros la mayoria de los dias; sin embargo, cuando se encuentra en centros comerciales, como el Jockey Plaza o Mall del Sur, se le ahce difícil encontrar sitios para estacionar dado que hay un gran flujo de usuarios dentro del centro comercial por lo que los estacionamientos son escasos y muy dificiles de encontrar; tanto asi, que a veces le toma hasta 15 minutos encontrar un espacio para estacionarse. Ella no utilizo algun sistema que le simplifique la tarea de encontrar estacionamiento y piensa que los sensores de estacionamientos son de mucha ayuda, pero a veces son engañosos, dado que a veces hay estacionamientos libres que aparcen con luz rojo como si estuvieran ocupados, y viceversa. Ella cree que seria una buena opcion que exista una app que te ayude a encontrar estacionamientos al lugar donde te estes dirigiendo, ya sea centro comercial o alrededores, y que te facilite la tarea de brindarte apoyo al momento de encontrar un espacio donde estacionarte para optimizar el tiempo haciendo actividades de mayor provecho. |
 
 **Segmento objetivo 2: Dueños de estacionamientos**
@@ -254,7 +244,7 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 | Nombres y Apellidos | Rafael Soto |
 | Edad | 26 años |
 | Lugar de residencia | La Victoria |
-| Enlace del video | [Rafael_Entrevista]([https://ipark.pe/propuesta/](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017267_upc_edu_pe/EaAVNhk_5lRBjzmuxUTDyNYBiuZnwvw1xfj9TqTjifT7mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E78kAV)) |
+| Enlace del video | [Entrevista Rafael](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017267_upc_edu_pe/EaAVNhk_5lRBjzmuxUTDyNYBiuZnwvw1xfj9TqTjifT7mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E78kAV) |
 | Duración | 9 minutos y 19 segundos |
 | Imagen | <img src="https://kappa.lol/ukSNEG" alt="Rafael Soto Entrevista" width="400" /> |
 | Resumen de la entrevista | Se entrevistó a Rafael Soto, estudiante de 26 años que vive en el distrito de La Victoria y colabora en el negocio familiar de estacionamientos. Señaló que sus principales habilidades están relacionadas con los números, ya que tiene facilidad para realizar operaciones rápidas y manejar cálculos. Comentó que la gestión de los espacios resulta sencilla en días de baja afluencia, pero en jornadas con mucho movimiento se dificulta controlar las horas de entrada y salida, lo que a veces genera pérdidas. Actualmente el registro se hace de forma manual con tickets y luego se pasa a Excel. Considera muy importante contar con información en tiempo real sobre los espacios disponibles, ya que ayudaría a evitar confusiones y mejorar la atención a los clientes. También ve beneficios en la automatización de reservas y pagos, así como en diversificar los medios de pago más allá del efectivo y Yape. Sobre la integración de sensores inteligentes, destacó que sería útil para identificar espacios vacíos sin necesidad de recorrer el local, optimizando el tiempo y reduciendo errores. Entre los principales desafíos mencionó la pérdida de tickets y los errores al calcular las horas de permanencia. Finalmente, señaló que le gustaría que una aplicación ofreciera reportes sobre ocupación, rotación y horarios de mayor demanda, además de incluir indicadores visuales como luces para señalar espacios libres, similar a lo que se ve en centros comerciales. Considera que estas innovaciones mejorarían la eficiencia y competitividad de su negocio. |
@@ -264,7 +254,7 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 | Nombres y Apellidos | Carlos Ponce |
 | Edad | 21 años |
 | Lugar de residencia | La Molina |
-| Enlace del video | https://www.youtube.com/watch?v=pI_iSFNsPYE |
+| Enlace del video | [Entrevista Carlos](https://www.youtube.com/watch?v=pI_iSFNsPYE) |
 | Duración | 4 minutos y 37 segundos |
 | Imagen | <img src="/assets/chapter-2/dueño-playa-carlos.jpg" width="400" /> |
 | Resumen de la entrevista | Carlos tiene 20 años y vive en La Molina, donde administra un estacionamiento. Se considera una persona organizada, resolutiva y orientada a mantener el orden, aunque reconoce que durante momentos de alta afluencia la gestión puede volverse complicada. Respecto al control de los espacios, menciona que usualmente es sencillo, pero se dificulta cuando hay gran movimiento o los conductores no respetan los espacios asignados. Por esta razón, valora la posibilidad de contar con información en tiempo real sobre la disponibilidad, lo cual evitaría revisiones físicas continuas y mejoraría la eficiencia operativa. Actualmente no utiliza sistemas digitales de reservas, pero acepta pagos mediante Yape y Plin, métodos que considera ágiles y populares entre sus clientes. Carlos considera que la automatización de reservas y pagos sería altamente beneficiosa, ya que permitiría organizar mejor los tiempos de permanencia, agilizar los ingresos y salidas, y llevar un control más preciso de los cobros. Resalta la importancia de ofrecer métodos de pago seguros y rápidos para mejorar la experiencia del cliente. Además, está convencido de que una aplicación que integre la gestión de espacios, reservas y pagos facilitaría el control detallado de la ocupación, ingresos diarios y aumentaría la transparencia en su administración. Entre los principales desafíos que enfrenta señala la organización en horarios de alta demanda y el seguimiento manual de los pagos. Finalmente, le gustaría que una app permita a los clientes registrar su tiempo de permanencia, calcule automáticamente el costo, notifique la disponibilidad en tiempo real y genere reportes de ocupación y rotación para tomar decisiones más estratégicas. |
@@ -275,12 +265,88 @@ Incluye la elaboración de preguntas principales y complementarias dirigidas a c
 | Nombres y Apellidos | Alexandra Teves |
 | Edad | 21 años |
 | Lugar de residencia | Breña |
-| Enlace del video | https://youtu.be/z5NyHt4swxQ |
+| Enlace del video | [Entrevista Alexandra](https://youtu.be/z5NyHt4swxQ) |
 | Duración | 3 minutos y 13 segundos |
 | Imagen | <img src="https://github.com/Lorem-Ipsum-UPC/reporte/blob/93e01753cf0b703fd1dec8446fd52aa08fb4c551/assets/chapter-2/Entrevista%20Alexandra.jpg" width="400" /> |
 | Resumen de la entrevista | Alexandra, de 21 años, ha asumido la gestión del estacionamiento que anteriormente administraba su madre. Si bien no posee experiencia formal en administración, ha demostrado buenas capacidades organizativas y mantiene una actitud receptiva hacia la incorporación de herramientas tecnológicas. Percibe que la gestión manual resulta complicada, en especial durante las horas de mayor demanda. Por ello, le interesa disponer de información en tiempo real y automatizar tareas como reservas y cobros, lo que simplificaría su labor y optimizaría la experiencia de los clientes. Actualmente no emplea un sistema digital, pero está dispuesta a implementar uno que permita aceptar pagos electrónicos y generar reportes sobre ocupación y rotación. Asimismo, valora la importancia de contar con métodos de pago seguros y funciones que fortalezcan el control y la eficiencia de su negocio. |
 
 ### 2.2.3. Análisis de entrevistas
+
+En el segmento 1, los conductores suelen buscar estacionamiento varias veces a la semana, demoran más de 10 minutos o inclusive media hora en buscar donde estacionar su vehículo cuando van a algún lugar y han tenido experiencias frustrantes al encontrar donde estacionarse, sin embargo, ninguno usa alguna aplicación para encontrar estacionamiento más fácil.
+
+<img src="/assets/chapter-2/Pregunta 1 Conductores.png"/>
+
+<img src="/assets/chapter-2/Pregunta 2 Conductores.png"/>
+
+<img src="/assets/chapter-2/Pregunta 8 Conductores.png"/>
+
+<img src="/assets/chapter-2/Pregunta 3 Conductores.png"/>
+
+
+Consideran muy importante conocer la disponibilidad de estacionamiento en tiempo real para asi no perder tiempo en verificar si la playa de estacionamiento cuenta con un espacio libre.
+
+<img src="/assets/chapter-2/Pregunta 4 Conductores.png"/>
+
+
+Algunos consideran que la proximidad y la seguridad del estacionamiento al lugar al que se dirigen es lo mas importante, pero todos coinciden que tanto costo, proximidad y seguridad son aspectos importantes a tener en cuenta al elegir una playa de estacionamiento.
+
+<img src="/assets/chapter-2/Pregunta 5 Conductores.png"/>
+
+
+En cuanto a utilidad de sensores y luces que indiquen disponibilidad de un espacio, todos consideran que es un aspecto útil que deberian tener las playas de estacionamiento.
+
+<img src="/assets/chapter-2/Pregunta 6 Conductores.png"/>
+
+
+A cerca de recibir recomendaciones de playas de estacionamiento mas cercanas a donde se dirigen, a todos les gustaria tener esa opción.
+
+<img src="/assets/chapter-2/Pregunta 7 Conductores.png"/>
+
+
+Finalmente, algunas de las mejoras que quisieran en las playas de estacionamiento son el ver la disponibilidad en tiempo real, saber si el aforo está copado y que se hagan notar para que sea más fácil para los conductores saber que ahi pueden dejar su vehículo y que tengan una aplicación que le indique donde hay estacionamientos libres o cercanos.
+
+<img src="/assets/chapter-2/Pregunta 9 Conductores.png"/>
+
+Link del Forms: [Link_Forms](https://forms.gle/4iHuvEREBSzFWc9y6)
+
+En el segmento 2, los dueños de playas de estacionamiento, consideran que cuando no hay muchos clientes, gestionar su playas es sencillo, pero cuando hay muchos clientes, la gestión es tediosa, dificil y agotadora, por lo que consideran importante contar con información en tiempo real. Entre los principales desafíos que enfrentan son el registro de placas, ingresos, salidas, organización en horarios de alta demanda y seguimiento de pagos sin embargo, ninguno usa algún sistema para administrar pagos y reservas.
+
+<img src="/assets/chapter-2/Pregunta 1 Dueños.png"/>
+
+<img src="/assets/chapter-2/Pregunta 2 Dueños.png"/>
+
+<img src="/assets/chapter-2/Pregunta 7 Dueños.png"/>
+
+<img src="/assets/chapter-2/Pregunta 3 Dueños.png"/>
+
+
+Entre los beneficios que ven en la automatización de pagos y reservas consideran que esto simplificaría su labor, mejoraría la experiencia de los clientes, daría una mejor organizacion de los tiempos de permanencia y un mejor control de cobros e ingresos.
+
+<img src="/assets/chapter-2/Pregunta 4 Dueños.png"/>
+
+
+Todos consideran que ofrecer opciones de pago seguras y rápidas a los clientes es muy relevante
+
+<img src="/assets/chapter-2/Pregunta 5 Dueños.png"/>
+
+
+En cuanto a la mejora de la eficiencia al usar un sistema que gestione datos y pagos, los entrevistados consideran que ayudaria con la gestión general, evitaria atender a muchos clientes formados en una cola, facilitaría los calculo, y en cuanto a la inclusión de sensores y luces que indiquen disponibilidad de un espacios, creen que les ahorraría el tener que hacer rondas y ayudaria a avisar a los autos cuando hay o no hay espacio disponible.
+
+<img src="/assets/chapter-2/Pregunta 6 Dueños.png"/>
+
+<img src="/assets/chapter-2/Pregunta 10 Dueños.png"/>
+
+
+A cerca de recibir reportes o análisis sobre la ocupación y rotacion de los vehículos estacionados, a todos les gustaria tener esa opción.
+
+<img src="/assets/chapter-2/Pregunta 9 Dueños.png"/>
+
+
+Finalmente, algunas de las funcionalidades que quisieran en una aplicación de gestión son el dar reportes de ingresos, permitir a los clientes registrar el tiempo de permanencia previo a su llegada, calcule automaticamente los costos y tarifas y que hayan indicadores visuales para señalar la disponibilidad como en los centros comerciales.
+
+<img src="/assets/chapter-2/Pregunta 8 Dueños.png"/>
+
+Link del Forms: [Link_Forms](https://forms.gle/TszFqNakzyBn1D6o7)
 
 ## 2.3. Needfinding
 
@@ -476,6 +542,9 @@ Se presenta una lista que contiene los términos del dominio del negocio y su de
 - **Interfaz de Usuario (UI):** Parte visual e interactiva de la aplicación donde los usuarios gestionan reservas, pagos y notificaciones.
 
 - **Backend:** Infraestructura que procesa y administra los datos de la app, incluyendo disponibilidad de espacios y perfiles de usuarios.
+  
+- **Sensor:** Dispositivo que detecta un estímulo o cambio en su entorno.
+
 
 
 
