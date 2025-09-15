@@ -64,7 +64,7 @@ El dominio de este proyecto es la gestión inteligente de estacionamientos urban
 **Customer Segments**
 - Conductores: Personas que necesitan encontrar estacionamiento de forma rápida, segura y sin complicaciones, especialmente en zonas urbanas congestionadas.
 
-- Propietarios de estacionamientos: Dueños de espacios públicos o privados interesados en rentabilizar su espacio, gestionando reservas, horarios y tarifas desde un panel digital.
+- Propietarios de estacionamientos: Dueños de espacios interesados en rentabilizar su espacio, gestionando reservas, horarios y tarifas desde un panel digital.
 
 **Initial Segment**
 - Conductores urbanos jóvenes y adultos (18–50 años), usuarios frecuentes de smartphones que buscan optimizar su tiempo y tener experiencias de movilidad seguras y eficientes.
