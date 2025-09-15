@@ -78,6 +78,8 @@ El "To-Be Scenario Mapping" para **Dueños de Playas de Estacionamiento** muestr
 
 ### 3.3. Impact Mapping
 
+![Impact Mapping](assets/chapter-3/impact-mapping.jpg)
+
 ### 3.4. Product Backlog
 
 | Epic ID | User Story ID | Título                                                       | Prioridad |
