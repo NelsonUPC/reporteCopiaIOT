@@ -25,7 +25,7 @@ Para identificar cómo **ParkeoYa** se posiciona frente a sus competidores en t�
 
 | Competidor   | Imágen | Descripción  | Enlace   |
 |--------------|--------|--------------|----------|
-| **ParkeoYa** | <img src="https://github.com/Lorem-Ipsum-UPC/reporte/blob/37b2121ec5cdd27b0afc73d064acc28392949571/assets/chapter-2/Logo.jpg" alt="Logo Aparcados" width="350" /> | Plataforma digital que conecta conductores con estacionamientos urbanos en tiempo real. Permite reservar, pagar y administrar espacios desde una app móvil y un portal web. Está orientada a reducir tiempos de búsqueda y mejorar la rentabilidad de los propietarios mediante IoT y automatización. | N/A |
+| **ParkeoYa** | <img src="assets/chapter-2/Logo.jpg" alt="Logo Aparcados" width="350" /> | Plataforma digital que conecta conductores con estacionamientos urbanos en tiempo real. Permite reservar, pagar y administrar espacios desde una app móvil y un portal web. Está orientada a reducir tiempos de búsqueda y mejorar la rentabilidad de los propietarios mediante IoT y automatización. | N/A |
 | **Parkimeter** | <img src="https://play-lh.googleusercontent.com/WL9JHoSKh73dQdMiWaGHQOZ85lnucjMYVf1Q-56BH8ZwH3al38dYtO_a5Hre7iL5nbD_=w480-h960-rw" alt="Logo Parkimeter" width="350" /> | App web y móvil con presencia internacional. Ofrece reserva de plazas de aparcamiento en diversas ciudades de Europa y Latinoamérica, destacando por sus descuentos y promociones. | [Parkimeter](https://parkimeter.com) |
 | **ElParking** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/4d/46/364d46f8-26c7-4424-5db7-0bef8aacfd3c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.jpeg/434x0w.webp" width="350" /> | Aplicación española que permite no solo reservar estacionamientos, sino también pagar multas, parquímetros y otros servicios urbanos, ampliando su ecosistema de movilidad. | [ElParking](https://elparking.com) |
 | **Aparcados** | <img src="https://play-lh.googleusercontent.com/Y2FttakCUHoIQiHRq2POcB7lNV8RAKlQgdpdVSqyNrDkdxXlh_xyVhOPOT_dSSKicwM=w480-h960-rw" alt="Logo Aparcados" width="350" /> | App enfocada en la reserva de estacionamientos en España con expansión hacia Europa y Latinoamérica. Ofrece geolocalización y notificaciones en tiempo real. | [Aparcados](https://aparcados.com) |
@@ -234,7 +234,7 @@ Link de entrevistas: [Link de Entrevistas](https://upcedupe-my.sharepoint.com/:v
 | Lugar de residencia | Surco |
 | Enlace del video | [Entrevista Maria](https://drive.google.com/file/d/1-lvSQDIcGbk-fEERg-kFN4gXO0x1Y2Th/view?usp=sharing) |
 | Duración | 3 minutos y 19 segundos |
-| Imagen |  <img width="400" alt="image" src="/assets/chapter-2/entrevista-maria.png" /> |
+| Imagen |  <img width="400" alt="image" src="assets/chapter-2/entrevista-maria.png"/> |
 | Resumen de la entrevista | Maria Gracia es una estudiante de 20 años que vive en el distrito de Surco y estudia derecho corporativo en la universidad. Comentó que usualmente le es fácil encontrar estacionamiento dado que en su universidad hay espacios libros la mayoria de los dias; sin embargo, cuando se encuentra en centros comerciales, como el Jockey Plaza o Mall del Sur, se le ahce difícil encontrar sitios para estacionar dado que hay un gran flujo de usuarios dentro del centro comercial por lo que los estacionamientos son escasos y muy dificiles de encontrar; tanto asi, que a veces le toma hasta 15 minutos encontrar un espacio para estacionarse. Ella no utilizo algun sistema que le simplifique la tarea de encontrar estacionamiento y piensa que los sensores de estacionamientos son de mucha ayuda, pero a veces son engañosos, dado que a veces hay estacionamientos libres que aparcen con luz rojo como si estuvieran ocupados, y viceversa. Ella cree que seria una buena opcion que exista una app que te ayude a encontrar estacionamientos al lugar donde te estes dirigiendo, ya sea centro comercial o alrededores, y que te facilite la tarea de brindarte apoyo al momento de encontrar un espacio donde estacionarte para optimizar el tiempo haciendo actividades de mayor provecho. |
 
 **Segmento objetivo 2: Dueños de estacionamientos**
@@ -256,7 +256,7 @@ Link de entrevistas: [Link de Entrevistas](https://upcedupe-my.sharepoint.com/:v
 | Lugar de residencia | La Molina |
 | Enlace del video | [Entrevista Carlos](https://www.youtube.com/watch?v=pI_iSFNsPYE) |
 | Duración | 4 minutos y 37 segundos |
-| Imagen | <img src="/assets/chapter-2/dueño-playa-carlos.jpg" width="400" /> |
+| Imagen | <img src="assets/chapter-2/dueño-playa-carlos.jpg" width="400" /> |
 | Resumen de la entrevista | Carlos tiene 20 años y vive en La Molina, donde administra un estacionamiento. Se considera una persona organizada, resolutiva y orientada a mantener el orden, aunque reconoce que durante momentos de alta afluencia la gestión puede volverse complicada. Respecto al control de los espacios, menciona que usualmente es sencillo, pero se dificulta cuando hay gran movimiento o los conductores no respetan los espacios asignados. Por esta razón, valora la posibilidad de contar con información en tiempo real sobre la disponibilidad, lo cual evitaría revisiones físicas continuas y mejoraría la eficiencia operativa. Actualmente no utiliza sistemas digitales de reservas, pero acepta pagos mediante Yape y Plin, métodos que considera ágiles y populares entre sus clientes. Carlos considera que la automatización de reservas y pagos sería altamente beneficiosa, ya que permitiría organizar mejor los tiempos de permanencia, agilizar los ingresos y salidas, y llevar un control más preciso de los cobros. Resalta la importancia de ofrecer métodos de pago seguros y rápidos para mejorar la experiencia del cliente. Además, está convencido de que una aplicación que integre la gestión de espacios, reservas y pagos facilitaría el control detallado de la ocupación, ingresos diarios y aumentaría la transparencia en su administración. Entre los principales desafíos que enfrenta señala la organización en horarios de alta demanda y el seguimiento manual de los pagos. Finalmente, le gustaría que una app permita a los clientes registrar su tiempo de permanencia, calcule automáticamente el costo, notifique la disponibilidad en tiempo real y genere reportes de ocupación y rotación para tomar decisiones más estratégicas. |
 
 
@@ -267,84 +267,84 @@ Link de entrevistas: [Link de Entrevistas](https://upcedupe-my.sharepoint.com/:v
 | Lugar de residencia | Breña |
 | Enlace del video | [Entrevista Alexandra](https://youtu.be/z5NyHt4swxQ) |
 | Duración | 3 minutos y 13 segundos |
-| Imagen | <img src="https://github.com/Lorem-Ipsum-UPC/reporte/blob/93e01753cf0b703fd1dec8446fd52aa08fb4c551/assets/chapter-2/Entrevista%20Alexandra.jpg" width="400" /> |
+| Imagen | <img width="400" src="assets/chapter-2/Entrevista Alexandra.jpg"/> |
 | Resumen de la entrevista | Alexandra, de 21 años, ha asumido la gestión del estacionamiento que anteriormente administraba su madre. Si bien no posee experiencia formal en administración, ha demostrado buenas capacidades organizativas y mantiene una actitud receptiva hacia la incorporación de herramientas tecnológicas. Percibe que la gestión manual resulta complicada, en especial durante las horas de mayor demanda. Por ello, le interesa disponer de información en tiempo real y automatizar tareas como reservas y cobros, lo que simplificaría su labor y optimizaría la experiencia de los clientes. Actualmente no emplea un sistema digital, pero está dispuesta a implementar uno que permita aceptar pagos electrónicos y generar reportes sobre ocupación y rotación. Asimismo, valora la importancia de contar con métodos de pago seguros y funciones que fortalezcan el control y la eficiencia de su negocio. |
 
 ### 2.2.3. Análisis de entrevistas
 
 En el segmento 1, los conductores suelen buscar estacionamiento varias veces a la semana, demoran más de 10 minutos o inclusive media hora en buscar donde estacionar su vehículo cuando van a algún lugar y han tenido experiencias frustrantes al encontrar donde estacionarse, sin embargo, ninguno usa alguna aplicación para encontrar estacionamiento más fácil.
 
-<img src="/assets/chapter-2/Pregunta 1 Conductores.png"/>
+<img src="assets/chapter-2/Pregunta 1 Conductores.png"/>
 
-<img src="/assets/chapter-2/Pregunta 2 Conductores.png"/>
+<img src="assets/chapter-2/Pregunta 2 Conductores.png"/>
 
-<img src="/assets/chapter-2/Pregunta 8 Conductores.png"/>
+<img src="assets/chapter-2/Pregunta 8 Conductores.png"/>
 
-<img src="/assets/chapter-2/Pregunta 3 Conductores.png"/>
+<img src="assets/chapter-2/Pregunta 3 Conductores.png"/>
 
 
 Consideran muy importante conocer la disponibilidad de estacionamiento en tiempo real para asi no perder tiempo en verificar si la playa de estacionamiento cuenta con un espacio libre.
 
-<img src="/assets/chapter-2/Pregunta 4 Conductores.png"/>
+<img src="assets/chapter-2/Pregunta 4 Conductores.png"/>
 
 
 Algunos consideran que la proximidad y la seguridad del estacionamiento al lugar al que se dirigen es lo mas importante, pero todos coinciden que tanto costo, proximidad y seguridad son aspectos importantes a tener en cuenta al elegir una playa de estacionamiento.
 
-<img src="/assets/chapter-2/Pregunta 5 Conductores.png"/>
+<img src="assets/chapter-2/Pregunta 5 Conductores.png"/>
 
 
 En cuanto a utilidad de sensores y luces que indiquen disponibilidad de un espacio, todos consideran que es un aspecto útil que deberian tener las playas de estacionamiento.
 
-<img src="/assets/chapter-2/Pregunta 6 Conductores.png"/>
+<img src="assets/chapter-2/Pregunta 6 Conductores.png"/>
 
 
 A cerca de recibir recomendaciones de playas de estacionamiento mas cercanas a donde se dirigen, a todos les gustaria tener esa opción.
 
-<img src="/assets/chapter-2/Pregunta 7 Conductores.png"/>
+<img src="assets/chapter-2/Pregunta 7 Conductores.png"/>
 
 
 Finalmente, algunas de las mejoras que quisieran en las playas de estacionamiento son el ver la disponibilidad en tiempo real, saber si el aforo está copado y que se hagan notar para que sea más fácil para los conductores saber que ahi pueden dejar su vehículo y que tengan una aplicación que le indique donde hay estacionamientos libres o cercanos.
 
-<img src="/assets/chapter-2/Pregunta 9 Conductores.png"/>
+<img src="assets/chapter-2/Pregunta 9 Conductores.png"/>
 
 Link del Forms: [Link_Forms](https://forms.gle/4iHuvEREBSzFWc9y6)
 
 En el segmento 2, los dueños de playas de estacionamiento, consideran que cuando no hay muchos clientes, gestionar su playas es sencillo, pero cuando hay muchos clientes, la gestión es tediosa, dificil y agotadora, por lo que consideran importante contar con información en tiempo real. Entre los principales desafíos que enfrentan son el registro de placas, ingresos, salidas, organización en horarios de alta demanda y seguimiento de pagos sin embargo, ninguno usa algún sistema para administrar pagos y reservas.
 
-<img src="/assets/chapter-2/Pregunta 1 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 1 Dueños.png"/>
 
-<img src="/assets/chapter-2/Pregunta 2 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 2 Dueños.png"/>
 
-<img src="/assets/chapter-2/Pregunta 7 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 7 Dueños.png"/>
 
-<img src="/assets/chapter-2/Pregunta 3 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 3 Dueños.png"/>
 
 
 Entre los beneficios que ven en la automatización de pagos y reservas consideran que esto simplificaría su labor, mejoraría la experiencia de los clientes, daría una mejor organizacion de los tiempos de permanencia y un mejor control de cobros e ingresos.
 
-<img src="/assets/chapter-2/Pregunta 4 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 4 Dueños.png"/>
 
 
 Todos consideran que ofrecer opciones de pago seguras y rápidas a los clientes es muy relevante
 
-<img src="/assets/chapter-2/Pregunta 5 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 5 Dueños.png"/>
 
 
 En cuanto a la mejora de la eficiencia al usar un sistema que gestione datos y pagos, los entrevistados consideran que ayudaria con la gestión general, evitaria atender a muchos clientes formados en una cola, facilitaría los calculo, y en cuanto a la inclusión de sensores y luces que indiquen disponibilidad de un espacios, creen que les ahorraría el tener que hacer rondas y ayudaria a avisar a los autos cuando hay o no hay espacio disponible.
 
-<img src="/assets/chapter-2/Pregunta 6 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 6 Dueños.png"/>
 
-<img src="/assets/chapter-2/Pregunta 10 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 10 Dueños.png"/>
 
 
 A cerca de recibir reportes o análisis sobre la ocupación y rotacion de los vehículos estacionados, a todos les gustaria tener esa opción.
 
-<img src="/assets/chapter-2/Pregunta 9 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 9 Dueños.png"/>
 
 
 Finalmente, algunas de las funcionalidades que quisieran en una aplicación de gestión son el dar reportes de ingresos, permitir a los clientes registrar el tiempo de permanencia previo a su llegada, calcule automaticamente los costos y tarifas y que hayan indicadores visuales para señalar la disponibilidad como en los centros comerciales.
 
-<img src="/assets/chapter-2/Pregunta 8 Dueños.png"/>
+<img src="assets/chapter-2/Pregunta 8 Dueños.png"/>
 
 Link del Forms: [Link_Forms](https://forms.gle/TszFqNakzyBn1D6o7)
 
@@ -361,14 +361,14 @@ La "User Persona" de Sofía Torres representa a los conductores urbanos que requ
 
 <p align="center"><em>User Persona: Conductores</em></p>
 
-![User Person 1](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c797e74d45d721c52eb9358e3a31eb8c7988b962/assets/chapter-2/User%20Persona%20Conductor.png)
+![User Person 1](assets/chapter-2//User%20Persona%20Conductor.png)
 
 **User Persona para Dueños de Playas de Estacionamiento**  
 La "User Persona" de Miguel Castro representa a propietarios de estacionamientos interesados en mejorar la gestión y aumentar ingresos. Miguel, de 40 años y dueño de una playa de estacionamiento, tiene experiencia en el rubro y quiere implementar tecnología para optimizar la ocupación y reducir tiempos de espera. Sus objetivos incluyen la fidelización de clientes y la expansión del negocio, pero enfrenta frustraciones con problemas tecnológicos y altos costos operativos.
 
 <p align="center"><em>User Persona: Dueño de Estacionamiento</em></p>
 
-![User Person 2](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c797e74d45d721c52eb9358e3a31eb8c7988b962/assets/chapter-2/User%20Persona%20Due%C3%B1o%20de%20Estacionamiento.png)
+![User Person 2](assets/chapter-2/User%20Persona%20Dueño%20de%20Estacionamiento.png)
 ### 2.3.2. User Task Matrix
 
 En el User Task Matrix hemos identificado las actividades que realizan nuestros dos segmentos y hemos evaluado la importancia de cada una de estas tareas para cada segmento.
@@ -450,7 +450,7 @@ Durante todo el recorrido, se identifican puntos de contacto clave como la inter
 
 <p align="center"><em>User Journey: Conductor</em></p>
 
-![User Journey Mapping 1](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c797e74d45d721c52eb9358e3a31eb8c7988b962/assets/chapter-2/User%20Journey%20Map%20Conductor.png)
+![User Journey Mapping 1](assets/chapter-2/User%20Journey%20Map%20Conductor.png)
 
 **User Journey Mapping para Dueños de Playas de Estacionamientos**
 
@@ -458,7 +458,7 @@ Este "User Journey Mapping" para dueños de estacionamientos describe las etapas
 
 <p align="center"><em>User Journey Mapping: Dueños de Playas de Estacionamientos</em></p>
 
-![User Journey Mapping 2](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c797e74d45d721c52eb9358e3a31eb8c7988b962/assets/chapter-2/User%20journey%20map%20Due%C3%B1o%20de%20Estacionamiento.png)
+![User Journey Mapping 2](assets/chapter-2/User%20journey%20map%20Dueño%20de%20Estacionamiento.png)
 
 ### 2.3.4. Empathy Mapping
 
@@ -470,7 +470,7 @@ Este "Empathy Map" representa a conductores urbanos frecuentes que enfrentan pro
 
 <p align="center"><em>Empathy Map: Conductor</em></p>
 
-![Empathy Map Conductor](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c797e74d45d721c52eb9358e3a31eb8c7988b962/assets/chapter-2/Empathy%20Mapping%20Conductor.png)
+![Empathy Map Conductor](assets/chapter-2/Empathy%20Mapping%20Conductor.png)
 
 **Segmento objetivo: Dueños de estacionamientos**
 
@@ -478,7 +478,7 @@ El mapa de empatía para **Dueños de Estacionamientos** identifica sus necesida
 
 <p align="center"><em>Empathy Map: Dueños de Estacionamientos</em></p>
 
-![Empathy Map Dueño de Estacionamiento](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c797e74d45d721c52eb9358e3a31eb8c7988b962/assets/chapter-2/Empathy%20Mapping%20Due%C3%B1o%20de%20Estacionamiento.png)
+![Empathy Map Dueño de Estacionamiento](assets/chapter-2/Empathy%20Mapping%20Dueño%20de%20Estacionamiento.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -490,7 +490,7 @@ El "As-is Scenario Mapping" para **Conductores** resalta los desafíos y mejoras
 
 <p align="center"><em>As-is Scenario Mapping: Conductor</em></p>
 
-![As is Scenario](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c966a5e7b268d301e4796e176d917ced60f97716/assets/chapter-2/As-Is%20Scenario%20Mapping%20Conductor.png) 
+![As is Scenario](assets/chapter-2/As-Is%20Scenario%20Mapping%20Conductor.png) 
 
 **Segmento Dueños de Playas de estacionamientos**
 
@@ -498,7 +498,7 @@ El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** ident
 
 <p align="center"><em>As-is Scenario Mapping: Dueños de Playas de Estacionamientos</em></p>
 
-![As is Scenario](https://github.com/Lorem-Ipsum-UPC/reporte/blob/c966a5e7b268d301e4796e176d917ced60f97716/assets/chapter-2/As-Is%20Scenario%20Mapping%20Due%C3%B1o%20de%20Playa%20de%20Estacionamiento.png)
+![As is Scenario](assets/chapter-2/As-Is%20Scenario%20Mapping%20Dueño%20de%20Playa%20de%20Estacionamiento.png)
 
 
 ## 2.4. Ubiquitous Language
